@@ -38,7 +38,7 @@ class Home extends Component {
           <Divider />
           <Container textAlign='center' id="page-footer">
             <p>Made with &nbsp;<Icon name='heart'/>&nbsp; in Melbourne.</p>
-            <p>Website built by Jia Xu @ Nov, 2021. All rights reserved.</p>
+            <p>Website built by Jia Xu @ Nov 28, 2021. All rights reserved.</p>
           </Container>
         </Container>
       </div>
