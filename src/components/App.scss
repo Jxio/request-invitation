@@ -1,0 +1,58 @@
+body {
+
+  #page-title {
+    height: calc(5vh);
+    padding-left: 10%;
+    line-height: calc(7vh);
+  }
+
+  #page-content {
+    height: calc(45vh);
+    margin-top: calc(40vh);
+    .huge {
+      font-size: xxx-large;
+    }
+  }
+
+  #page-footer {
+    font: Serif;
+    height: calc(5vh);
+  }
+
+  #page-overlay {
+    background-color: rgba(168, 168, 177, 0.5);
+
+    #sign-panel {
+      position: absolute;
+      left: 50%;
+      top: 46%;
+      width: 30%;
+      transform: translate(-50%, -50%);
+      -webkit-transform: translate(-50%, -50%);
+      border: 1px black solid;
+      padding: 2em;
+      background-color: rgba(255, 255, 255, 1);
+
+      h4 {
+        font: Serif;
+        color: #6c6c74;
+      }
+
+      .divider {
+        width: 7%;
+        margin: auto;
+      }
+
+      form {
+        padding-top: 1em;
+        button {
+          width: 100%;
+          margin-top: 2em;
+          background-color: rgba(255, 255, 255, 1);
+          border: 1px solid rgba(34,36,38,.15);
+        }
+      }
+    }
+  }
+
+}
