@@ -5,7 +5,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "webpack-dev-server",
+    "start": "webpack-dev-server --no-open",
     "build": "rm -rf dist && webpack"
   },
   "dependencies": {
