@@ -17,7 +17,8 @@
     "react-router-dom": "^5.3.0",
     "sass": "^1.43.5",
     "sass-loader": "^12.3.0",
-    "semantic-ui-react": "^2.0.4"
+    "semantic-ui-react": "^2.0.4",
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "@babel/core": "^7.16.0",

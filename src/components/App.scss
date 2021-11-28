@@ -1,5 +1,4 @@
 body {
-
   #page-title {
     height: calc(5vh);
     padding-left: 10%;
@@ -21,6 +20,17 @@ body {
 
   #page-overlay {
     background-color: rgba(168, 168, 177, 0.5);
+
+    .close-layout {
+      position: absolute;
+      right: 0;
+      color: red;
+      background-color: rgba(255, 255, 255, 1);
+    }
+    .close-layout:hover {
+      background-color: #6c6c74;
+      color: white;
+    }
 
     #sign-panel {
       position: absolute;
@@ -54,5 +64,4 @@ body {
       }
     }
   }
-
 }
