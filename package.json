@@ -7,7 +7,7 @@
   "homepage": "http://jxio.github.io/request-invitation",
   "scripts": {
     "start": "webpack-dev-server --no-open",
-    "build": "rm -rf dist && webpack",
+    "build": "rm -rf dist && webpack -d",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
