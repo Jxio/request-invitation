@@ -6,7 +6,9 @@ A single webpage app that allows user to enter name and email to receive email i
 
 ## Technologies
 Front-end framework: React;
+
 Mordern build tool: Webpack;
+
 Mordern styling approach: Semantic-ui-react
 
 ## Requirements && Test Cases
