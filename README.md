@@ -1,3 +1,6 @@
+## Project Demo Address
+http://jxio.github.io/request-invitation
+
 ## Project Description
 A single webpage app that allows user to enter name and email to receive email invitations.
 
